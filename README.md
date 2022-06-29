@@ -1,5 +1,5 @@
 # bash_customize
-To install
+To use the above bashrc configuration add below lines to $HOME/.bashrc
 ```
 source ~/bashrc_0
 eval "`dircolors -b ~/.dircolors`"
